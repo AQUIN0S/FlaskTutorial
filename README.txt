@@ -6,4 +6,4 @@ To move to the correct directory and start the virtual environment:
 To start the flask app:
     -   export FLASK_APP=flaskblog.py
     -   export FLASK_ENV=development
-    -   run flask
+    -   flask run
